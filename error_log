@@ -1,0 +1,1 @@
+[08-Oct-2021 10:08:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/googlehai/public_html/e-magine/application/libraries/Cropper.php on line 184
